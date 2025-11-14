@@ -1,6 +1,6 @@
 CREATE DATABASE Project_p1;
 USE Project_p1;
-TABLE Retail_Sale_Analysis (
+CREATE TABLE Retail_Sale_Analysis (
 		transactions_id INT,	
 		sale_date DATE,
 		sale_time TIME,
